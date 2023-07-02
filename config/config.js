@@ -5,7 +5,7 @@ const config = {
 	base: "/javascript-guidebook/",
 	publicPath: "/javascript-guidebook/",
 	favicon: "./favicon.ico",
-	logo: "/javascript-guidebook/javascript-juidebook.png",
+	logo: "/javascript-guidebook/javascript-guidebook.png",
 	hash: true,
 	exportStatic: {},
 	navs: [
