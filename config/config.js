@@ -2,10 +2,10 @@ const config = {
 	mode: "site",
 	title: "JavaScript Guidebook",
 	description: "JavaScript 完全知识体系",
-	base: "/",
-	publicPath: "/",
+	base: "/javascript-guidebook/",
+	publicPath: "/javascript-guidebook/",
 	favicon: "./favicon.ico",
-	logo: "./javascript-juidebook.png",
+	logo: "/javascript-guidebook/javascript-juidebook.png",
 	hash: true,
 	exportStatic: {},
 	navs: [
