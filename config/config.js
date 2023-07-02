@@ -5,14 +5,14 @@ const config = {
 	base: "./",
 	publicPath: "./",
 	favicon: "./favicon.ico",
-	logo: "http://img.mrsingsing.com/javascript-guidebook-favicon.png",
+	logo: "./javascript-juidebook.png",
 	hash: true,
 	exportStatic: {},
 	navs: [
 		null,
 		{
 			title: "Github",
-			path: "./javascript-juidebook.png",
+			path: "https://github.com/tsejx/javascript-guidebook",
 		},
 	],
 	extraBabelPlugins: [
